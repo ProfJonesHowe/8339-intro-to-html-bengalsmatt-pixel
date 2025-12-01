@@ -1,14 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/esJr-KnL)
-Create a basic HTML page
-Ensure you make your page public so they are viewable
-The index.html page will contain
-  the !DOCTYPE declaration
-  the <head> tag
-  the <title> tag
-  the <html> tag
-  the <body> tag
-  two different headings
-  One paragraph - The paragraph will be about something you are interested in.  This will define what your individual project will be about (this can be changed, but it's a starting idea) 
-  A link to any website about your topic
-  A picture about your topic with alt text
-  the proper closing tags.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Project Topic</title>
+</head>
+<body>
+
+    <h1>My Project Topic: Cybersecurity</h1>
+    <h2>Why I'm Interested In It</h2>
+
+    <p>
+        I am interested in cybersecurity because I like learning how technology works 
+        and how systems can be protected from attacks. My final project will focus on 
+        how cybersecurity tools and methods keep information safe and why it matters 
+        in the real world.
+    </p>
+
+    <a href="https://www.cisa.gov" target="_blank">
+        Learn more about cybersecurity here
+    </a>
+
+    <br><br>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Cyber_security_img.png" 
+         alt="Cybersecurity digital shield graphic"
+         width="400">
+
+</body>
+</html>
